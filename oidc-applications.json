@@ -484,7 +484,7 @@
       "category": "Password management",
       "project_url": "https://github.com/dani-garcia/vaultwarden",
       "github_url": "https://github.com/dani-garcia/vaultwarden",
-      "logo_url": "https://raw.githubusercontent.com/dani-garcia/vaultwarden/main/resources/vaultwarden-logo.svg",
+      "logo_url": "https://raw.githubusercontent.com/dani-garcia/vaultwarden/refs/heads/main/resources/vaultwarden-icon.svg",
       "license": "AGPL-3.0-only",
       "description": "An unofficial Bitwarden-compatible server with self-hosted OpenID Connect SSO, account provisioning, and optional SSO-only login.",
       "documentation_url": "https://github.com/dani-garcia/vaultwarden/wiki/Enabling-SSO"
@@ -504,7 +504,7 @@
       "category": "Remote access & VPN",
       "project_url": "https://netbird.io/",
       "github_url": "https://github.com/netbirdio/netbird",
-      "logo_url": "https://raw.githubusercontent.com/netbirdio/netbird/main/proxy/web/src/assets/netbird-full.svg",
+      "logo_url": "https://raw.githubusercontent.com/netbirdio/netbird/refs/heads/main/proxy/web/src/assets/netbird.svg",
       "license": "BSD-3-Clause / AGPL-3.0",
       "description": "An open-source WireGuard-based mesh VPN with a self-hosted management service and generic OIDC login for the management dashboard and clients.",
       "documentation_url": "https://docs.netbird.io/selfhosted/identity-providers/generic-oidc"
@@ -573,6 +573,7 @@
       "category": "Container management",
       "project_url": "https://komo.do",
       "github_url": "https://github.com/moghtech/komodo",
+      "logo_url": "https://raw.githubusercontent.com/moghtech/komodo/refs/heads/main/docsite/static/img/komodo-512x512.png",
       "license": "GPL 3",
       "description": "A build and deployment system managing unlimited hosts based on Docker Compose and optionally Swarm with built-in OAuth2 authentication that works with any OIDC provider.",
       "documentation_url": "https://komo.do/docs/setup/advanced#oidc--oauth2"
@@ -898,6 +899,7 @@
       "category": "Dashboards",
       "project_url": "https://gethomepage.dev/",
       "github_url": "https://github.com/gethomepage/homepage",
+      "logo_url": "https://raw.githubusercontent.com/gethomepage/homepage/refs/heads/main/public/android-chrome-192x192.png",
       "license": "GPL-3.0",
       "description": "A self-hosted, highly customizable homepage dashboard whose built-in authentication gate supports OpenID Connect login alongside a simple password.",
       "documentation_url": "https://gethomepage.dev/installation/#authentication"
@@ -1267,6 +1269,36 @@
       "license": "AGPL-3.0",
       "description": "A self-hosted media server for movies, TV, and music with built-in OpenID Connect login, optional automatic account creation, and explicit account linking.",
       "documentation_url": "https://github.com/kaybi-gh/K7/blob/main/docs/admin/configuration.md#oidc--sso"
+    },
+    {
+      "name": "Uptimekit",
+      "category": "Observability & dashboards",
+      "project_url": "https://uptimekit.dev",
+      "github_url": "https://github.com/uptimekit/uptimekit",
+      "logo_url": "https://r2.uptimekit.dev/logos/uptimekit.svg",
+      "license": "MIT",
+      "description": "The modern open-source status page and monitoring solution with free OIDC login.",
+      "documentation_url": "https://docs.uptimekit.dev/configuration/social_login"
+    },
+    {
+      "name": "Calagopus",
+      "category": "Game server management",
+      "project_url": "https://calagopus.com/",
+      "github_url": "https://github.com/calagopus/panel",
+      "logo_url": "https://calagopus.com/icon.svg",
+      "license": "MIT",
+      "description": "An open-source game server management panel built in Rust",
+      "documentation_url": "https://calagopus.com/docs/additional/setting-up-oauth/generic"
+    },
+    {
+      "name": "Arcane",
+      "category": "Container management",
+      "project_url": "https://getarcane.app",
+      "github_url": "https://github.com/getarcaneapp/arcane",
+      "logo_url": "https://raw.githubusercontent.com/getarcaneapp/website/refs/heads/main/static/img/logo.svg",
+      "license": "BSD 3-Clause",
+      "description": "Modern Docker Management, Designed for Everyone.",
+      "documentation_url": "https://getarcane.app/docs/authentication/sso"
     }
   ]
 }
