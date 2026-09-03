@@ -1261,6 +1261,26 @@
       "documentation_url": "https://github.com/pelican/plugins/tree/main/generic-oidc-providers"
     },
     {
+      "name": "Uptimekit",
+      "category": "Observability & dashboards",
+      "project_url": "https://uptimekit.dev",
+      "github_url": "https://github.com/uptimekit/uptimekit",
+      "logo_url": "https://r2.uptimekit.dev/logos/uptimekit.svg",
+      "license": "MIT",
+      "description": "The modern open-source status page and monitoring solution with free OIDC login.",
+      "documentation_url": "https://docs.uptimekit.dev/configuration/social_login"
+    },
+    {
+      "name": "Calagopus",
+      "category": "Game server management",
+      "project_url": "https://calagopus.com/",
+      "github_url": "https://github.com/calagopus/panel",
+      "logo_url": "https://calagopus.com/icon.svg",
+      "license": "MIT",
+      "description": "An open-source game server management panel built in Rust",
+      "documentation_url": "https://calagopus.com/docs/additional/setting-up-oauth/generic"
+    },
+    {
       "name": "Arcane",
       "category": "Container management",
       "project_url": "https://getarcane.app",
