@@ -1299,6 +1299,16 @@
       "license": "BSD 3-Clause",
       "description": "Modern Docker Management, Designed for Everyone.",
       "documentation_url": "https://getarcane.app/docs/authentication/sso"
+    },
+    {
+      "name": "OpenPost",
+      "category": "Social media management",
+      "project_url": "https://openpo.st/",
+      "github_url": "https://github.com/getopenpost/openpost",
+      "logo_url": "https://raw.githubusercontent.com/getopenpost/openpost/main/assets/brand/icon.svg",
+      "license": "AGPL-3.0-only",
+      "description": "A self-hosted social publishing platform for composing, adapting, scheduling, and tracking posts across multiple social networks, with built-in optional OpenID Connect login through a configurable instance-wide identity provider.",
+      "documentation_url": "https://docs.openpo.st/configuration/environment-variables"
     }
   ]
 }
