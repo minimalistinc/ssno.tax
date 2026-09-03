@@ -1261,6 +1261,16 @@
       "documentation_url": "https://github.com/pelican/plugins/tree/main/generic-oidc-providers"
     },
     {
+      "name": "K7",
+      "category": "Media streaming",
+      "project_url": "https://k7.kaybi.dev",
+      "github_url": "https://github.com/kaybi-gh/K7",
+      "logo_url": "https://raw.githubusercontent.com/kaybi-gh/K7/main/branding/symbol-on-light.svg",
+      "license": "AGPL-3.0",
+      "description": "A self-hosted media server for movies, TV, and music with built-in OpenID Connect login, optional automatic account creation, and explicit account linking.",
+      "documentation_url": "https://github.com/kaybi-gh/K7/blob/main/docs/admin/configuration.md#oidc--sso"
+    },
+    {
       "name": "Uptimekit",
       "category": "Observability & dashboards",
       "project_url": "https://uptimekit.dev",
