@@ -1309,6 +1309,16 @@
       "license": "AGPL-3.0-only",
       "description": "A self-hosted social publishing platform for composing, adapting, scheduling, and tracking posts across multiple social networks, with built-in optional OpenID Connect login through a configurable instance-wide identity provider.",
       "documentation_url": "https://docs.openpo.st/configuration/environment-variables"
+    },
+    {
+      "name": "PhotoPrism",
+      "category": "Photo and video management",
+      "project_url": "https://www.photoprism.app/",
+      "github_url": "https://github.com/photoprism/photoprism",
+      "logo_url": "https://raw.githubusercontent.com/photoprism/photoprism/master/assets/static/icons/app.svg",
+      "license": "AGPL-3.0",
+      "description": "An AI-powered, privacy-first app for browsing, organizing, and sharing photos and videos.",
+      "documentation_url": "https://docs.photoprism.app/developer-guide/api/oidc/"
     }
   ]
 }
