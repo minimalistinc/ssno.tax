@@ -909,6 +909,7 @@
       "category": "Personal finance & household management",
       "project_url": "https://homebox.software/",
       "github_url": "https://github.com/sysadminsmedia/homebox",
+      "logo_url": "https://raw.githubusercontent.com/sysadminsmedia/homebox/refs/heads/main/docs/src/assets/lilbox.svg",
       "license": "AGPL-3.0",
       "description": "A self-hosted home inventory and organization system with built-in OpenID Connect single sign-on for user login.",
       "documentation_url": "https://homebox.software/en/quick-start/configure/oidc/"
@@ -1145,6 +1146,7 @@
       "name": "Trilium Notes",
       "category": "Notes & knowledge management ",
       "project_url": "https://triliumnotes.org/",
+      "github_url": "https://github.com/TriliumNext/Trilium",
       "logo_url": "https://cdn.simpleicons.org/trilium",
       "license": "AGPL-3.0  ",
       "description": "Trilium Notes is a free and open-source, cross-platform hierarchical note taking application with focus on building large personal knowledge bases.",
